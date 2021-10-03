@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Liam",
+    "phone": "+16102448942"
+  },
+  {
+    "id": "2",
+    "name": "Noah",
+    "phone": "+14842918492"
+  },
+  {
+    "id": "3",
+    "name": "Oliver",
+    "phone": "+14842634724",
+    "review": {
+      "mark": 3
+    }
+  },
+  {
+    "id": "4",
+    "name": "Elijah",
+    "phone": "+14842634694",
+    "review": {
+      "mark": 1,
+      "comment": "I bought this skillet a little while ago and I was surprised how rough the surface finish was. It felt like sandpaper. Given all the positive reviews, I was expecting higher quality. After some research I found instructional videos on how to grind these Lodge skillets smooth, but who has time for that? I found two other American producers of cast iron that come with a smooth finish right out of the box: Stargazer and Finex. The Finex looks interesting but I went with the Stargazer because it's fully machined at half the price. Seems like I made the right call. The design is great, the surface finish is super smooth, and it cooks like a champ. If you're reading this review, do yourself a favor and pass on the Lodge. Go with the Stargazer instead. It's well worth the investment.",
+      "likes": 1379
+    }
+  }
+]
